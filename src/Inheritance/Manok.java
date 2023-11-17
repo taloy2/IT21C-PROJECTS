@@ -1,10 +1,12 @@
+package Inheritance;
+
 class Manok extends Animal{
     Manok(String Manok){
       super(Manok);
     }
     
     void kaon(){
-        System.out.println( Animal +" kay nag kaon");
+        System.out.println( Animal +" kay gi kaon");
     }
     
     void sabong(){
