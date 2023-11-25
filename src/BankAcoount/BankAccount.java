@@ -4,8 +4,6 @@ public class BankAccount {
      private long accnum;
     private long accbal;
     private long dep;
-   
-    
     public String getName(){
         return name;
     }
