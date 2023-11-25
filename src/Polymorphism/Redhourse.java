@@ -7,7 +7,7 @@ public class Redhourse extends Me {
     }
     
     void bugnawaoy(){
-        System.out.println( name + "Bugnawa oy");{
+        System.out.println( name + "Bugnawa oy");
         
     }
         public void meShat(){
